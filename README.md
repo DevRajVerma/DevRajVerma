@@ -7,16 +7,15 @@
 <h3 align="center">I turn Ideas into reality</h3>
 <h4 align="center">Web developer, Content Writer, Competitive Programmer ... Or jo Kaho 🙂</h4><br><br>
 
-- 👋 I am currently working with technologies based on **JavaScript**. Technologies such as **ReactJS**, **NextJS**, **NodeJS**.
-- 💞️ I’m currently learning **React Native**
+- 👋 I am currently working with technologies based on **JavaScript**. Technologies such as **ReactJS**, **NodeJS**.
+- 💞️ I’m currently learning **React**
 - ✨ I’m looking to collaborate on Web based Projects
-- 📫 My Tech Stack: *NextJS*, *ReactJS*, *NodeJS*, *MongoDB Atlas*, *TailwindCSS*.
+- 📫 My Tech Stack: *ReactJS*, *NodeJS*, *MongoDB Atlas*, *TailwindCSS*.
 - ✨ Languages I know: *JavaScript*, *TypeScript*, *CPP*.
 
 ### My work experience
-- 🟢 Working as a Software Developer Intern at [TargetTech](https://targettechnology.in/)
-- 🔴 Worked as a Frontend Developer Intern at [RollingNotes](https://rollingnotes.in/)
-- 🔴 Worked as a Freelance Developer at [CreatorCore]()
+- 🟢 Working as a Freelance Developer at [Upwork](https://www.upwork.com/)
+- 🔴 Worked as a Frontend Developer Intern at [RaptureTechnologies](http://rapturetechnology.com/)
 
 ### My socials are listed below
 - Twitter at [@mehraankush69](https://twitter.com/mehrankush69)
