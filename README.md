@@ -18,17 +18,17 @@
 - 🔴 Worked as a Frontend Developer Intern at [RaptureTechnologies](http://rapturetechnology.com/)
 
 ### My socials are listed below
-- Twitter at [@mehraankush69](https://twitter.com/mehrankush69)
-- LinkedIn at [Ankush Mehra](https://www.linkedin.com/in/ankush-mehra-9a57a1233/)
-- Portfolio/Website at [ankushmehra.netlify.app](https://ankushmehra.netlify.app/)
-- Instagram at [@mehra69](https://www.instagram.com/mehra_69/)
-- Mail me at [ankushmehra.dev@gmail.com](mailto:ankushmehra.dev@gmail.com) regarding any work or if you just wanna connect
+- Twitter at [@Dev91854734](https://x.com/Dev91854734)
+- LinkedIn at [Dev Raj Verma](https://www.linkedin.com/in/dev-raj-verma-310ab21b4/)
+- Portfolio/Website at [portfolio-devraj.vercel.app/](https://portfolio-devraj.vercel.app/)
+- Instagram at [@dev__raj_verma](https://www.instagram.com/dev__raj_verma/)
+- Mail me at [drverma2704@gmail.com](mailto:drverma2704@gmail.com) regarding any work or if you just wanna connect
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img height="300em" width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=mehraankush&theme=react&hide_border=true" />
+  <img height="300em" width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=DevRajVerma&theme=react&hide_border=true" />
   <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehraankush&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRajVerma&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ### ✍️ Random Dev Quote
@@ -37,6 +37,6 @@
 ---
 
 <!---
-mehraankush/mehraankush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevRajVerma/DevRajVerma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
