@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">I turn Ideas into reality</h3>
-<h4 align="center">Web developer, Content Writer, Competitive Programmer ... Or jo Kaho 🙂</h4><br><br>
+<h4 align="center">Web developer, Competitive Programmer ... Or jo Kaho 🙂</h4><br><br>
 
 - 👋 I am currently working with technologies based on **JavaScript**. Technologies such as **ReactJS**, **NodeJS**.
 - 💞️ I’m currently learning **React**
